@@ -32,7 +32,7 @@ Some other suggestions:
 * Use actual words. Let people easily understand what they can do with your project.
 * Avoid developer profile pages, people are not products.
 * Avoid pojects that are gendered, sexual, religious, aggressive, or violent. We are a diverse, positive place.
-* Avoid using proper country and/or corporate names (except it refer to a tecnology).
+* Avoid using proper country and/or corporate names (except it refer to a technology).
 
 <hr>
 
